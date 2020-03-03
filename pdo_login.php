@@ -14,7 +14,7 @@
       {
            if(empty($_POST["username"]) || empty($_POST["password"]))
            {
-                $message = '<label>fill in the fields</label>';
+                $message = '<label>Fill in the fields</label>';
            }
            else
            {
