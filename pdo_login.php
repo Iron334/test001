@@ -14,7 +14,7 @@
       {
            if(empty($_POST["username"]) || empty($_POST["password"]))
            {
-                $message = '<label>Töltsd ki az összes mezőt</label>';
+                $message = '<label>fill in the fields</label>';
            }
            else
            {
