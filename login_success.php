@@ -2,7 +2,7 @@
 session_start();
 if(isset($_SESSION["username"]))
 {
-    echo 'Login Success<br /> <h1>Welcome - '.$_SESSION["username"].'</h1>';
+    echo '<h3>Welcome -'.$_SESSION["username"].'</h3>';
     include "index.php";
 }
 else
