@@ -44,4 +44,4 @@ if (isset ($_POST['name'])  && isset($_POST['email']) ) {
     </div>
   </div>
 </div>
-<?php require 'footer.php'; ?>
+
