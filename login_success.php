@@ -7,7 +7,7 @@ if(isset($_SESSION["username"]))
 }
 else
 {
-    header("location:pdo_login.php");
+    header("location:login.php");
 }
 
 ?>
