@@ -34,4 +34,4 @@ $people = $statement->fetchAll(PDO::FETCH_OBJ);
     </div>
   </div>
 </div>
-<a href="pdo_login.php">Logout</a>
+<a href="login.php">Logout</a>
