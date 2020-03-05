@@ -14,7 +14,7 @@
         <a class="nav-link" href="index.php">Home </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="create.php">Create a person</a>
+        <a class="nav-link" href="create.php">Create</a>
       </li>
       
   </body>
