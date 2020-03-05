@@ -34,10 +34,6 @@ tr:nth-child(even) {
 
 
 
-.old_ie_wrapper {
-    height:300px;
-    width: 750px;
-    overflow-x: hidden;
-    overflow-y: auto;}
+
 
 tbody { height: auto; }
